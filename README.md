@@ -8,7 +8,7 @@ I've worked with **C++** for 5 years professionally, which was enough time to en
 
 #### The present
 
-Nowadays I'm using **Rust** exclusively for my pet projects, since I love it and I believe that it is the way forward. I try to help the ecosystem improve by sponsoring Rust projects and occasionally contributing to them.
+Nowadays I'm using **Rust** exclusively for my pet projects, since I love it and I believe it is the way forward. I try to help the ecosystem improve by sponsoring Rust projects and occasionally contributing to them.
 
 #### Interests
 
@@ -16,8 +16,8 @@ I was always interested in **game development** (okay, who's wasn't?). I wrote m
 
 **WebGPU**, especially the [Rust implementation](https://github.com/gfx-rs/wgpu-rs) by `gfx-rs` folks is an awesome project which helped me relive my interest in graphics programming after a weeks long RGB triangle experiment with Vulkan. I use `wgpu-rs` for a private project and try to help with small issues when I've got time for it.
 
-I was working on automotive navigation for years which got me interested in _maps_ - especially **OpenStreetMap** - and related functionalities (geocoding, routing, map rendering, etc.). I've created the [ROSM Project](https://github.com/rosm-project), which is a set of tools written in Rust for OSM data processing, currently without a clear end goal.
+I was working on automotive navigation for years which got me interested in _maps_ – especially **OpenStreetMap** – and related functionalities (geocoding, routing, map rendering, etc.). I've created the [ROSM Project](https://github.com/rosm-project), which is a set of tools written in Rust for OSM data processing, currently without a clear end goal.
 
 #### The future
 
-I'd love to work with Rust professionally, ideally on a topic which I'm interested in.
+I'd love to work with Rust professionally, ideally on a topic I'm interested in.
