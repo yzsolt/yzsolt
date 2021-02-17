@@ -4,7 +4,7 @@ My name is Zsolt Bölöny `[ʒolt bøløni]`. I'm a software engineer from Hunga
 
 #### The past
 
-I've worked with **C++** for 5 years professionally, which was enough time to encounter most of its weirdness. As a generalist I've worked on buildsystems (CMake, Gradle), tools (Python), platform-specific bindings (Java, Objective-C++), continuous integration, embedded ARM (Yocto Linux) and mobile platforms (Android, iOS). Just like any other developer I've fixed countless bugs, participated in feature development from ground zero to release, found and removed performance bottlenecks, helped in architecture planning, sat on probably too many meetings and drank probably too much ☕.
+I've worked with **C++** for 5 years professionally, which was enough time to encounter most of its weirdness. As a generalist I've worked on buildsystems (CMake, Gradle), tools (Python), platform-specific bindings (Java, Objective-C), continuous integration, embedded ARM (Yocto Linux) and mobile platforms (Android, iOS). Just like any other developer I've fixed countless bugs, participated in feature development from ground zero to release, found and removed performance bottlenecks, helped in architecture planning, sat on probably too many meetings and drank probably too much ☕.
 
 #### The present
 
