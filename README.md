@@ -8,7 +8,7 @@ I've worked with **C++** for 5 years professionally, which was enough time to en
 
 #### The present
 
-Nowadays I'm using **Rust** exclusively for my pet projects, since I love it and I believe it is the way forward. I try to help the ecosystem improve by sponsoring Rust projects and occasionally contributing to them.
+Nowadays I'm leading a small team using **Rust** professionally in an automotive project. I also use Rust exclusively for my pet projects, since I love it and I believe it is the way forward. I try to help the ecosystem improve by sponsoring Rust projects and occasionally contributing to them.
 
 #### Interests
 
