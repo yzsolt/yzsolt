@@ -4,11 +4,11 @@ My name is Zsolt Bölöny `[ʒolt bøløni]`. I'm a software engineer from Hunga
 
 #### The past
 
-I've worked with **C++** for 5 years professionally, which was enough time to encounter most of its weirdness. As a generalist I've worked on buildsystems (CMake, Gradle), tools (Python), platform-specific bindings (Java, Objective-C), continuous integration, embedded ARM (Yocto Linux) and mobile platforms (Android, iOS). Just like any other developer I've fixed countless bugs, participated in feature development from ground zero to release, found and removed performance bottlenecks, helped in architecture planning, sat on probably too many meetings and drank probably too much ☕.
+I've worked mainly with **C++** and **Rust** in the past ~10 years, both as a hobby and professionally. As a generalist I've worked on buildsystems (CMake, Gradle), tools (Python), platform-specific bindings (Java, Objective-C), continuous integration, embedded ARM (Yocto Linux) and mobile platforms (Android, iOS). Just like any other developer I've fixed countless bugs, participated in feature development from ground zero to release, found and removed performance bottlenecks, helped in architecture planning, sat on probably too many meetings and drank probably too much ☕.
 
 #### The present
 
-Nowadays I'm leading a small team using **Rust** professionally in an automotive project. I also use Rust exclusively for my pet projects, since I love it and I believe it is the way forward. I try to help the ecosystem improve by sponsoring Rust projects and occasionally contributing to them.
+I was lucky enough to take part in two different Rust-based projects in automotive and finance, but currently I'm looking for new opportunities. I still use Rust for my pet projects, since I love it and I believe it is the way forward. I try to help the ecosystem improve by sponsoring Rust projects and occasionally contributing to them.
 
 #### Interests
 
